@@ -57,7 +57,7 @@ function App() {
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
-                backgroundColor: '#b19cd9',
+                backgroundColor: '#16000A',
                 p: 2,
             }}
         >
